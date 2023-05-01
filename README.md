@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi everyone!
+
+I am Siddhi and my passion for building machine learning solutions has made me pick machine learning engineering as a career. I have been working with machine learning, deep learning, computer vision and machine learning operations for the last 5 years.
